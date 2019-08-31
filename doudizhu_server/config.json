@@ -1,0 +1,9 @@
+{
+  "mysqlConfig": {
+    "host": "127.0.0.1",
+    "root": "3306",
+    "user":"root",
+    "password":"wsw105991",
+    "database": "doudizhu"
+  }
+}
