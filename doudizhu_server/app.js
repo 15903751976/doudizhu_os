@@ -4,7 +4,8 @@ const app=socket('3000');//socket套接字连接  对应socket-controller的连�
 const  config=require("./config.json");//config是数据库的连接配置
 const  mydb=require('./utilily/db');//p2 5m18s-6m  //mysql数据库连接
 
-const  playerController=require('./game/player');//player玩家列表信息
+const  el = require('./utilily/eventListener');//node.js的模块化方法
+const  playerController = require('./game/player');//player玩家列表信息
 mydb.connect(config.mysqlConfig);
 // mydb.checkPlayer("100000",function(err,cb){
 //
@@ -22,6 +23,13 @@ mydb.connect(config.mysqlConfig);
 //    nick_name:"小王",
 //    avatar_url:"taobao.com"
 // });
+
+// let event = el.EventListener({});
+// event.on('test',function(pl){
+//
+// });
+// event.fire('test','ok');
+
 app.on('connection',function (socket) {
     console.log('a user connected app.js/app.on函数 = ');
     socket.emit('welcome','hello world!');

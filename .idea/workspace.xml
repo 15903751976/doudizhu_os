@@ -2,586 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a7723b6-29b1-4ef5-8b61-6bfc0b7103a8" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/doudizhu_os.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/font.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/font/round_body.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/font/round_body.ttf.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/CreateHouse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/CreateHouse.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/JoinHouse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/JoinHouse.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/background.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/bg.jpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/heguan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/heguan.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/res.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/res.plist.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/res.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/res.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/prefabs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scenes.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scenes/mainScene.fire" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scenes/mainScene.fire.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/components.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/components/joinRoom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/components/joinRoom.js.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/data.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/data/player-data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/data/player-data.js.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/data/socket-controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/data/socket-controller.js.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/data/tianba.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/data/tianba.js.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/defines.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/defines/defines.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/defines/defines.js.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/gameScene.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/global.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/global.js.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/lib.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/lib/socket.io.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/lib/socket.io.js.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/mainScene.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/mainScene.js.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/mainScene.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/test.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/test/test1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/test/test1.js.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/test/test2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/test/test2.js.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/test/test3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/test/test3.js.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/creator.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/jsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/project.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/settings/project.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_os_client/settings/services.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/game/player.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/accepts/HISTORY.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/accepts/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/accepts/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/accepts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/accepts/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/after/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/after/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/after/LICENCE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/after/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/after/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/after/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/after/test/after-test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/arraybuffer.slice/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/arraybuffer.slice/LICENCE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/arraybuffer.slice/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/arraybuffer.slice/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/arraybuffer.slice/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/arraybuffer.slice/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/arraybuffer.slice/test/slice-buffer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/async-limiter/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/async-limiter/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/async-limiter/coverage/coverage.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/async-limiter/coverage/lcov-report/async-throttle/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/async-limiter/coverage/lcov-report/async-throttle/index.js.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/async-limiter/coverage/lcov-report/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/async-limiter/coverage/lcov-report/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/async-limiter/coverage/lcov-report/prettify.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/async-limiter/coverage/lcov-report/prettify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/async-limiter/coverage/lcov-report/sort-arrow-sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/async-limiter/coverage/lcov-report/sorter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/async-limiter/coverage/lcov.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/async-limiter/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/async-limiter/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/async-limiter/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/backo2/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/backo2/History.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/backo2/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/backo2/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/backo2/component.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/backo2/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/backo2/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/backo2/test/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/base64-arraybuffer/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/base64-arraybuffer/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/base64-arraybuffer/LICENSE-MIT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/base64-arraybuffer/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/base64-arraybuffer/lib/base64-arraybuffer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/base64-arraybuffer/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/base64id/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/base64id/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/base64id/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/base64id/lib/base64id.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/base64id/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/better-assert/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/better-assert/History.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/better-assert/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/better-assert/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/better-assert/example.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/better-assert/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/better-assert/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/bignumber.js/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/bignumber.js/LICENCE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/bignumber.js/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/bignumber.js/bignumber.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/bignumber.js/bignumber.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/bignumber.js/bignumber.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/bignumber.js/bignumber.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/bignumber.js/bignumber.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/bignumber.js/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/bignumber.js/doc/API.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/bignumber.js/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/blob/.idea/blob.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/blob/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/blob/.idea/markdown-navigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/blob/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/blob/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/blob/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/blob/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/blob/.zuul.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/blob/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/blob/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/blob/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/blob/component.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/blob/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/blob/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/blob/test/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/callsite/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/callsite/History.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/callsite/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/callsite/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/callsite/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/callsite/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/component-bind/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/component-bind/History.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/component-bind/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/component-bind/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/component-bind/component.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/component-bind/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/component-bind/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/component-emitter/History.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/component-emitter/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/component-emitter/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/component-emitter/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/component-emitter/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/component-inherit/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/component-inherit/History.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/component-inherit/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/component-inherit/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/component-inherit/component.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/component-inherit/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/component-inherit/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/component-inherit/test/inherit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/cookie/HISTORY.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/cookie/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/cookie/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/cookie/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/cookie/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/core-util-is/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/core-util-is/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/core-util-is/float.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/core-util-is/lib/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/core-util-is/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/core-util-is/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/debug/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/debug/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/debug/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/debug/dist/debug.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/debug/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/debug/src/browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/debug/src/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/debug/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/debug/src/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/engine.io.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/lib/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/lib/socket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/lib/transport.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/lib/transports/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/lib/transports/polling-jsonp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/lib/transports/polling-xhr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/lib/transports/polling.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/lib/transports/websocket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/lib/xmlhttprequest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/node_modules/debug/.coveralls.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/node_modules/debug/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/node_modules/debug/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/node_modules/debug/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/node_modules/debug/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/node_modules/debug/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/node_modules/debug/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/node_modules/debug/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/node_modules/debug/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/node_modules/debug/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/node_modules/debug/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/node_modules/debug/src/browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/node_modules/debug/src/debug.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/node_modules/debug/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/node_modules/debug/src/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/node_modules/ms/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/node_modules/ms/license.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/node_modules/ms/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/node_modules/ms/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-client/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-parser/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-parser/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-parser/lib/browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-parser/lib/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-parser/lib/keys.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-parser/lib/utf8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io-parser/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/lib/engine.io.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/lib/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/lib/socket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/lib/transport.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/lib/transports/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/lib/transports/polling-jsonp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/lib/transports/polling-xhr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/lib/transports/polling.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/lib/transports/websocket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/node_modules/debug/.coveralls.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/node_modules/debug/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/node_modules/debug/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/node_modules/debug/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/node_modules/debug/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/node_modules/debug/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/node_modules/debug/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/node_modules/debug/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/node_modules/debug/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/node_modules/debug/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/node_modules/debug/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/node_modules/debug/src/browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/node_modules/debug/src/debug.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/node_modules/debug/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/node_modules/debug/src/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/node_modules/ms/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/node_modules/ms/license.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/node_modules/ms/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/node_modules/ms/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/engine.io/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/has-binary2/History.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/has-binary2/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/has-binary2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/has-binary2/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/has-binary2/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/has-cors/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/has-cors/History.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/has-cors/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/has-cors/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/has-cors/component.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/has-cors/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/has-cors/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/has-cors/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/indexof/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/indexof/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/indexof/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/indexof/component.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/indexof/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/indexof/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/inherits/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/inherits/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/inherits/inherits.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/inherits/inherits_browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/inherits/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/isarray/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/isarray/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/isarray/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mime-db/HISTORY.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mime-db/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mime-db/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mime-db/db.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mime-db/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mime-db/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mime-types/HISTORY.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mime-types/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mime-types/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mime-types/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mime-types/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/ms/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/ms/license.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/ms/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/ms/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/Changes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/License" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/Connection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/ConnectionConfig.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/Pool.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/PoolCluster.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/PoolConfig.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/PoolConnection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/PoolNamespace.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/PoolSelector.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/Auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/BufferList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/PacketHeader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/PacketWriter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/Parser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/Protocol.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/ResultSet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/SqlString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/Timer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/constants/charsets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/constants/client.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/constants/errors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/constants/field_flags.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/constants/server_status.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/constants/ssl_profiles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/constants/types.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/packets/AuthSwitchRequestPacket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/packets/AuthSwitchResponsePacket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/packets/ClientAuthenticationPacket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/packets/ComChangeUserPacket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/packets/ComPingPacket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/packets/ComQueryPacket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/packets/ComQuitPacket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/packets/ComStatisticsPacket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/packets/EmptyPacket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/packets/EofPacket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/packets/ErrorPacket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/packets/Field.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/packets/FieldPacket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/packets/HandshakeInitializationPacket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/packets/LocalDataFilePacket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/packets/OkPacket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/packets/OldPasswordPacket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/packets/ResultSetHeaderPacket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/packets/RowDataPacket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/packets/SSLRequestPacket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/packets/StatisticsPacket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/packets/UseOldPasswordPacket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/packets/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/sequences/ChangeUser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/sequences/Handshake.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/sequences/Ping.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/sequences/Query.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/sequences/Quit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/sequences/Sequence.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/sequences/Statistics.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/protocol/sequences/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/mysql/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/negotiator/HISTORY.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/negotiator/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/negotiator/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/negotiator/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/negotiator/lib/charset.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/negotiator/lib/encoding.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/negotiator/lib/language.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/negotiator/lib/mediaType.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/negotiator/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/object-component/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/object-component/History.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/object-component/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/object-component/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/object-component/component.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/object-component/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/object-component/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/object-component/test/object.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/parseqs/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/parseqs/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/parseqs/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/parseqs/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/parseqs/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/parseqs/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/parseqs/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/parseuri/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/parseuri/History.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/parseuri/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/parseuri/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/parseuri/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/parseuri/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/parseuri/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/parseuri/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/process-nextick-args/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/process-nextick-args/license.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/process-nextick-args/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/process-nextick-args/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/GOVERNANCE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/doc/wg-meetings/2015-01-30.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/duplex-browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/duplex.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/lib/_stream_duplex.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/lib/_stream_passthrough.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/lib/_stream_readable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/lib/_stream_transform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/lib/_stream_writable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/lib/internal/streams/BufferList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/lib/internal/streams/destroy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/lib/internal/streams/stream-browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/lib/internal/streams/stream.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/node_modules/isarray/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/node_modules/isarray/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/node_modules/isarray/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/node_modules/isarray/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/node_modules/isarray/component.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/node_modules/isarray/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/node_modules/isarray/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/node_modules/isarray/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/passthrough.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/readable-browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/readable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/transform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/writable-browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/readable-stream/writable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/safe-buffer/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/safe-buffer/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/safe-buffer/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/safe-buffer/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/safe-buffer/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-adapter/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-adapter/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-adapter/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-adapter/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-adapter/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/dist/socket.io.dev.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/dist/socket.io.dev.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/dist/socket.io.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/dist/socket.io.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/dist/socket.io.slim.dev.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/dist/socket.io.slim.dev.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/dist/socket.io.slim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/dist/socket.io.slim.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/lib/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/lib/manager.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/lib/on.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/lib/socket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/lib/url.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/node_modules/debug/.coveralls.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/node_modules/debug/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/node_modules/debug/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/node_modules/debug/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/node_modules/debug/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/node_modules/debug/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/node_modules/debug/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/node_modules/debug/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/node_modules/debug/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/node_modules/debug/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/node_modules/debug/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/node_modules/debug/src/browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/node_modules/debug/src/debug.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/node_modules/debug/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/node_modules/debug/src/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/node_modules/ms/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/node_modules/ms/license.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/node_modules/ms/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/node_modules/ms/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-client/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-parser/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-parser/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-parser/binary.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-parser/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-parser/is-buffer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-parser/node_modules/debug/.coveralls.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-parser/node_modules/debug/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-parser/node_modules/debug/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-parser/node_modules/debug/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-parser/node_modules/debug/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-parser/node_modules/debug/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-parser/node_modules/debug/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-parser/node_modules/debug/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-parser/node_modules/debug/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-parser/node_modules/debug/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-parser/node_modules/debug/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-parser/node_modules/debug/src/browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-parser/node_modules/debug/src/debug.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-parser/node_modules/debug/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-parser/node_modules/debug/src/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-parser/node_modules/ms/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-parser/node_modules/ms/license.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-parser/node_modules/ms/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-parser/node_modules/ms/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io-parser/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io/lib/client.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io/lib/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io/lib/namespace.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io/lib/parent-namespace.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io/lib/socket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/socket.io/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/sqlstring/HISTORY.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/sqlstring/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/sqlstring/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/sqlstring/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/sqlstring/lib/SqlString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/sqlstring/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/string_decoder/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/string_decoder/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/string_decoder/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/string_decoder/lib/string_decoder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/string_decoder/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/to-array/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/to-array/LICENCE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/to-array/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/to-array/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/to-array/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/util-deprecate/History.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/util-deprecate/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/util-deprecate/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/util-deprecate/browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/util-deprecate/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/util-deprecate/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/ws/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/ws/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/ws/browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/ws/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/ws/lib/buffer-util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/ws/lib/constants.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/ws/lib/event-target.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/ws/lib/extension.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/ws/lib/permessage-deflate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/ws/lib/receiver.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/ws/lib/sender.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/ws/lib/validation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/ws/lib/websocket-server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/ws/lib/websocket.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/ws/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/xmlhttprequest-ssl/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/xmlhttprequest-ssl/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/xmlhttprequest-ssl/autotest.watchr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/xmlhttprequest-ssl/example/demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/xmlhttprequest-ssl/lib/XMLHttpRequest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/xmlhttprequest-ssl/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/xmlhttprequest-ssl/tests/test-constants.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/xmlhttprequest-ssl/tests/test-events.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/xmlhttprequest-ssl/tests/test-exceptions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/xmlhttprequest-ssl/tests/test-headers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/xmlhttprequest-ssl/tests/test-redirect-302.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/xmlhttprequest-ssl/tests/test-redirect-303.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/xmlhttprequest-ssl/tests/test-redirect-307.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/xmlhttprequest-ssl/tests/test-request-methods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/xmlhttprequest-ssl/tests/test-request-protocols.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/xmlhttprequest-ssl/tests/testdata.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/yeast/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/yeast/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/yeast/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/node_modules/yeast/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doudizhu_server/utilily/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doudizhu_server/utilily/eventListener.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/font/round_body.ttf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/font/round_body.ttf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/CreateHouse.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/CreateHouse.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/JoinHouse.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/JoinHouse.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/background.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/background.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/bg.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/bg.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/bg2.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/bg2.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/bg3.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/bg3.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/bg5.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/bg5.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/btnBg.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/btnBg.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/close.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/close.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/heguan.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/heguan.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/ludandi.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/ludandi.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/res.plist.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/res.plist.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/res.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/res.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/tipsbg1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/png/tipsbg1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/prefabs/createrRoom.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/prefabs/createrRoom.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/prefabs/createrRoom.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/prefabs/createrRoom.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/prefabs/joinRoom.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/prefabs/joinRoom.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/resources/prefabs/joinRoom.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/prefabs/joinRoom.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/scenes/gameScene.fire" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scenes/gameScene.fire" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/scenes/gameScene.fire.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scenes/gameScene.fire.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/scenes/loginScene.fire" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scenes/loginScene.fire" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/scenes/loginScene.fire.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scenes/loginScene.fire.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/scenes/mainScene.fire" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scenes/mainScene.fire" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/scenes/mainScene.fire.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scenes/mainScene.fire.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/components/Landmanager.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/components/Landmanager.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/components/createRoom.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/components/createRoom.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/components/joinRoom.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/components/joinRoom.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/components/landRemovePrefabManage.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/components/landRemovePrefabManage.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/data/player-data.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/data/player-data.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/data/socket-controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/data/socket-controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/data/socket-controller.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/data/socket-controller.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/data/tianba.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/data/tianba.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/defines/defines.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/defines/defines.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/gameScene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/global.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/global.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/lib/socket.io.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/lib/socket.io.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/loginScene/loginScene.js" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/loginScene/loginScene.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/loginScene/loginScene.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/loginScene/loginScene.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/mainScene.js" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/mainScene.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/mainScene.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/mainScene.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/mainScene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/test/test1.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/test/test1.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/test/test2.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/test/test2.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/test/test3.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/test/test3.js.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/settings/project.json" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/settings/project.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_os_client/settings/services.json" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_os_client/settings/services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doudizhu_server/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/doudizhu_server/app.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -600,47 +70,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/doudizhu_os_client/assets/scripts/mainScene.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1350">
-              <caret line="46" column="57" selection-start-line="46" selection-start-column="57" selection-end-line="46" selection-end-column="57" />
+            <state relative-caret-position="275">
+              <caret line="24" column="22" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="24" selection-end-column="22" />
               <folding>
                 <element signature="e#0#33#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doudizhu_os_client/assets/scripts/components/landManager.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="4" selection-start-column="4" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doudizhu_os_client/assets/scripts/data/tianba.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doudizhu_os_client/assets/scripts/components/joinRoom.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="24" column="29" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/doudizhu_os_client/assets/scripts/components/createRoom.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -658,37 +92,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doudizhu_server/game/player.js">
+        <entry file="file://$PROJECT_DIR$/doudizhu_os_client/assets/scripts/data/socket-controller.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="15" column="23" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="23" />
+            <state relative-caret-position="74">
+              <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doudizhu_os_client/assets/scripts/data/player-data.js">
+        <entry file="file://$PROJECT_DIR$/doudizhu_server/utilily/eventListener.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+            <state relative-caret-position="930">
+              <caret line="31" column="10" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doudizhu_os_client/assets/scripts/loginScene/loginScene.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="16" column="44" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doudizhu_os_client/assets/scripts/components/createRoom.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/doudizhu_server/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="1" column="16" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doudizhu_server/utilily/db.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1110">
-              <caret line="37" column="47" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="47" />
+            <state relative-caret-position="240">
+              <caret line="23" column="16" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -722,16 +165,19 @@
         <option value="$PROJECT_DIR$/doudizhu_os_client/library/imports/f1/f1dfbad9-46e1-4d88-916a-2ab48b979917.js" />
         <option value="$PROJECT_DIR$/doudizhu_server/utilily/db.js" />
         <option value="$PROJECT_DIR$/doudizhu_server/game/player.js" />
-        <option value="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/data/socket-controller.js" />
-        <option value="$PROJECT_DIR$/doudizhu_server/app.js" />
         <option value="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/components/LandDelegate.js" />
         <option value="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/components/Landmanager.js" />
         <option value="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/data/player-data.js" />
         <option value="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/components/landRemovePrefabManage.js" />
         <option value="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/components/landManager.js" />
         <option value="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/components/joinRoom.js" />
-        <option value="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/mainScene.js" />
         <option value="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/components/createRoom.js" />
+        <option value="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/uitlity/eventListener.js" />
+        <option value="$PROJECT_DIR$/doudizhu_server/utilily/eventListener.js" />
+        <option value="$PROJECT_DIR$/doudizhu_server/app.js" />
+        <option value="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/mainScene.js" />
+        <option value="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/loginScene/loginScene.js" />
+        <option value="$PROJECT_DIR$/doudizhu_os_client/assets/scripts/data/socket-controller.js" />
       </list>
     </option>
   </component>
@@ -741,17 +187,18 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="14" />
-    <option name="y" value="34" />
-    <option name="width" value="1353" />
-    <option name="height" value="768" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="238" />
+    <option name="y" value="-23" />
+    <option name="width" value="1675" />
+    <option name="height" value="1083" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -785,22 +232,89 @@
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="doudizhu_os" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doudizhu_os" type="462c0819:PsiDirectoryNode" />
+              <item name="doudizhu_os_client" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doudizhu_os" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doudizhu_os" type="462c0819:PsiDirectoryNode" />
+              <item name="doudizhu_os_client" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="defines" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doudizhu_os" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doudizhu_os" type="462c0819:PsiDirectoryNode" />
+              <item name="doudizhu_os_client" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doudizhu_os" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doudizhu_os" type="462c0819:PsiDirectoryNode" />
+              <item name="doudizhu_os_client" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="loginScene" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doudizhu_os" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doudizhu_os" type="462c0819:PsiDirectoryNode" />
+              <item name="doudizhu_os_client" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doudizhu_os" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doudizhu_os" type="462c0819:PsiDirectoryNode" />
+              <item name="doudizhu_server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doudizhu_os" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doudizhu_os" type="462c0819:PsiDirectoryNode" />
+              <item name="doudizhu_server" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doudizhu_os" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doudizhu_os" type="462c0819:PsiDirectoryNode" />
+              <item name="doudizhu_server" type="462c0819:PsiDirectoryNode" />
+              <item name="utilily" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doudizhu_os" type="b2602c69:ProjectViewProjectNode" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="javascript.nodejs.core.library.configured.version" value="12.6.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/doudizhu_server" />
+    <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="ts.external.directory.path" value="F:\software\WebStorm 2018.3.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\12997\Documents\doudizhu_os\doudizhu_server\utilily" />
+      <recent name="C:\Users\12997\Documents\doudizhu_os\doudizhu_os_client\assets\prefabs" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -982,11 +496,16 @@
       <workItem from="1567003678510" duration="597000" />
       <workItem from="1567090399292" duration="3121000" />
       <workItem from="1567177718220" duration="611000" />
+      <workItem from="1567312453782" duration="2093000" />
+      <workItem from="1567314565945" duration="67000" />
+      <workItem from="1567314649193" duration="1082000" />
+      <workItem from="1567339017918" duration="12574000" />
+      <workItem from="1567354188083" duration="2093000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="260630000" />
+    <option name="totallyTimeSpent" value="278539000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -998,45 +517,45 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="14" y="34" width="1353" height="768" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.495671" visible="true" weight="0.17870723" />
-      <window_info id="Structure" order="1" sideWeight="0.504329" side_tool="true" weight="0.19263239" />
-      <window_info id="Favorites" order="2" sideWeight="0.50220263" side_tool="true" weight="0.14735226" />
-      <window_info anchor="bottom" id="TypeScript" order="0" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4924623" visible="true" weight="0.19418758" />
+      <window_info id="Structure" order="1" sideWeight="0.50753766" side_tool="true" weight="0.19418758" />
+      <window_info id="Favorites" order="2" sideWeight="0.50753766" side_tool="true" weight="0.19418758" />
+      <window_info anchor="bottom" id="TypeScript" order="0" sideWeight="0.49961627" weight="0.32857144" />
       <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" sideWeight="0.49961978" visible="true" weight="0.09448819" />
+      <window_info anchor="bottom" id="Find" order="2" sideWeight="0.49961978" weight="0.45892352" />
       <window_info anchor="bottom" id="Run" order="3" weight="0.3296875" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49925596" weight="0.32565284" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49925596" weight="0.3243626" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49925596" weight="0.32718894" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49925596" weight="0.41474655" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5003802" side_tool="true" visible="true" weight="0.09448819" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49769938" weight="0.32577905" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.8995399" visible="true" weight="0.2917847" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.10046012" side_tool="true" weight="0.35126582" />
       <window_info anchor="bottom" id="调试" order="12" weight="0.4171875" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.495671" visible="true" weight="0.17336309" />
-      <window_info id="Structure" order="1" sideWeight="0.504329" side_tool="true" weight="0.19263239" />
-      <window_info id="Favorites" order="2" sideWeight="0.50220263" side_tool="true" weight="0.14735226" />
-      <window_info anchor="bottom" id="TypeScript" order="0" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4924623" weight="0.22546013" />
+      <window_info id="Structure" order="1" sideWeight="0.50753766" side_tool="true" weight="0.19418758" />
+      <window_info id="Favorites" order="2" sideWeight="0.50753766" side_tool="true" weight="0.19418758" />
+      <window_info anchor="bottom" id="TypeScript" order="0" sideWeight="0.49961627" weight="0.32857144" />
       <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.57348245" />
+      <window_info anchor="bottom" id="Find" order="2" sideWeight="0.49961978" weight="0.45892352" />
       <window_info anchor="bottom" id="Run" order="3" weight="0.3296875" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" weight="0.3265625" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49925596" weight="0.3243626" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32755905" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.12596007" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49769938" weight="0.32577905" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.8995399" visible="true" weight="0.067567565" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.10046012" side_tool="true" weight="0.35126582" />
       <window_info anchor="bottom" id="调试" order="12" weight="0.4171875" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1087,13 +606,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/doudizhu_server/unitily/db.js" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/12.6.0/node-typings/node_modules/@types/node/async_hooks.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/12.6.0/node-typings/node_modules/@types/node/async_hooks.d.ts" />
     <entry file="file://$PROJECT_DIR$/doudizhu_server/node_modules/mysql/lib/PoolNamespace.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -1108,13 +621,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/12.6.0/node-typings/node_modules/@types/node/inspector.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="293" column="25" selection-start-line="293" selection-start-column="19" selection-end-line="293" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/12.6.0/node-typings/node_modules/@types/node/inspector.d.ts" />
     <entry file="file://$PROJECT_DIR$/doudizhu_server/config.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1151,13 +658,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doudizhu_os_client/assets/scripts/data/socket-controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/doudizhu_os_client/assets/scripts/components/LandDelegate.js" />
     <entry file="file://$PROJECT_DIR$/doudizhu_os_client/assets/scripts/defines/defines.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -1166,27 +666,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/doudizhu_os_client/assets/scripts/data/player-data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/doudizhu_os_client/creator.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
+        <state relative-caret-position="481170">
           <caret line="16039" column="8" selection-start-line="16039" selection-start-column="8" selection-end-line="16039" selection-end-column="8" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doudizhu_os_client/assets/scripts/components/landRemovePrefabManage.js.meta">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/doudizhu_os_client/assets/scripts/components/landRemovePrefabManage.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="7" column="24" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doudizhu_os_client/assets/scripts/mainScene.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="46" column="57" selection-start-line="46" selection-start-column="57" selection-end-line="46" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1204,9 +704,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/doudizhu_os_client/assets/scripts/loginScene.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/doudizhu_os_client/assets/scripts/components/joinRoom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
+        <state relative-caret-position="-429">
           <caret line="24" column="29" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="29" />
         </state>
       </provider>
@@ -1228,20 +735,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doudizhu_os_client/assets/scripts/data/player-data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doudizhu_server/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/doudizhu_server/utilily/db.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1110">
@@ -1251,8 +744,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/doudizhu_os_client/assets/scripts/components/createRoom.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doudizhu_os_client/assets/scripts/mainScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="24" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doudizhu_os_client/assets/scripts/loginScene/loginScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doudizhu_os_client/assets/scripts/data/socket-controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doudizhu_server/utilily/eventListener.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doudizhu_server/app.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="16" />
         </state>
       </provider>
     </entry>
