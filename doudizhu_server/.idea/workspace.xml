@@ -3,50 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="cd0c0a77-c58f-48ed-b30d-40fee3693150" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/font/round_body.ttf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/font/round_body.ttf.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/png/CreateHouse.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/png/CreateHouse.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/png/JoinHouse.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/png/JoinHouse.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/png/background.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/png/background.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/png/bg.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/png/bg.jpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/png/bg2.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/png/bg2.jpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/png/bg3.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/png/bg3.jpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/png/bg5.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/png/bg5.jpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/png/btnBg.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/png/btnBg.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/png/close.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/png/close.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/png/heguan.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/png/heguan.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/png/ludandi.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/png/ludandi.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/png/res.plist.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/png/res.plist.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/png/res.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/png/res.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/png/tipsbg1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/png/tipsbg1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/prefabs/createrRoom.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/prefabs/createrRoom.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/prefabs/createrRoom.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/prefabs/createrRoom.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/prefabs/joinRoom.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/prefabs/joinRoom.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/prefabs/joinRoom.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/resources/prefabs/joinRoom.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/scenes/gameScene.fire" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/scenes/gameScene.fire" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/scenes/gameScene.fire.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/scenes/gameScene.fire.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/scenes/loginScene.fire" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/scenes/loginScene.fire" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/scenes/loginScene.fire.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/scenes/loginScene.fire.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/scenes/mainScene.fire" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/scenes/mainScene.fire" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/scenes/mainScene.fire.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/scenes/mainScene.fire.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/components/Landmanager.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/components/Landmanager.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/components/createRoom.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/components/createRoom.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/components/joinRoom.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/components/joinRoom.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/components/landRemovePrefabManage.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/components/landRemovePrefabManage.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/data/player-data.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/data/player-data.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/data/socket-controller.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/data/socket-controller.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/data/tianba.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/data/tianba.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/defines/defines.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/defines/defines.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/gameScene.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/global.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/global.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/lib/socket.io.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/lib/socket.io.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/loginScene/loginScene.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/loginScene/loginScene.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/mainScene.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/mainScene.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/mainScene.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/test/test1.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/test/test1.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/test/test2.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/test/test2.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/test/test3.js.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/test/test3.js.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/settings/project.json" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/settings/project.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/data/socket-controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/data/socket-controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/loginScene/loginScene.js" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/assets/scripts/loginScene/loginScene.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../doudizhu_os_client/settings/services.json" beforeDir="false" afterPath="$PROJECT_DIR$/../doudizhu_os_client/settings/services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/player.js" beforeDir="false" afterPath="$PROJECT_DIR$/game/player.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilily/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/utilily/db.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilily/eventListener.js" beforeDir="false" afterPath="$PROJECT_DIR$/utilily/eventListener.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -57,14 +21,80 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="42" column="52" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game/player.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utilily/db.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2160">
+              <caret line="72" column="15" selection-start-line="72" selection-start-column="15" selection-end-line="72" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utilily/eventListener.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/utilily/db.js" />
+        <option value="$PROJECT_DIR$/config.json" />
+        <option value="$PROJECT_DIR$/utilily/eventListener.js" />
+        <option value="$PROJECT_DIR$/game/player.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="37" />
-    <option name="y" value="107" />
-    <option name="width" value="1675" />
-    <option name="height" value="1103" />
+    <option name="x" value="-58" />
+    <option name="y" value="42" />
+    <option name="width" value="1915" />
+    <option name="height" value="1025" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -73,7 +103,27 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="doudizhu_server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doudizhu_server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doudizhu_server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doudizhu_server" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doudizhu_server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doudizhu_server" type="462c0819:PsiDirectoryNode" />
+              <item name="utilily" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -81,6 +131,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -105,30 +156,35 @@
       <option name="presentableId" value="Default" />
       <updated>1567339456143</updated>
       <workItem from="1567339457467" duration="8000" />
+      <workItem from="1567434746238" duration="7822000" />
+      <workItem from="1567522505257" duration="2560000" />
+      <workItem from="1567607152737" duration="8269000" />
+      <workItem from="1567691477425" duration="3982000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8000" />
+    <option name="totallyTimeSpent" value="22641000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="30" y="86" width="1340" height="882" extended-state="0" />
+    <frame x="-46" y="34" width="1532" height="820" extended-state="0" />
     <layout>
-      <window_info id="npm" side_tool="true" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.118983954" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.17030568" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.55377907" />
+      <window_info anchor="bottom" id="调试" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -136,5 +192,42 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/utilily/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="72" column="15" selection-start-line="72" selection-start-column="15" selection-end-line="72" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilily/eventListener.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="42" column="52" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

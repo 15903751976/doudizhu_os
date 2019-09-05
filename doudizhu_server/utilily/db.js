@@ -1,7 +1,7 @@
 const  mysql = require('mysql');
 let client=undefined;
 /**query自写的数据库插入方法，里面的  connection.query(sql  为实际插入数据库中的连接插入语句*/
-const query=function (sql,cb) {//query查询
+const query=function (sql,cb) {//query查询     //编写数据库再p2 7m10s
     console.log('query = '+ sql);
     client.getConnection(function (err,connection) {//获取连接mysql的对象池
         if (err){

@@ -24,18 +24,11 @@ const  SocketController=function () {//   p1 49m18s   51m11s
       _callBackMap[_callBackIndex] = cb;
       notify(msg,data);
     };
-    that.login=function (unique,nickName,avatar,houseCardCount,cb) {//  p1 61m56s   表示调用结果的时候调用cb
-        // _socket.emit('login',{
-        //        uniqueID:unique,
-        //        nickName:nickName,
-        //        avatarUrl:avatar,
-        //        houseCardCount:houseCardCount,
-        //
-        // });
-        request('login',{uniqueID:unique,nickName:nickName,avatarUrl:avatar},cb);//p6 16m13s
+    that.login=function (uniqueID,nickname,avatar,cb) {//  p1 61m56s   p6 11m15s   表示调用结果的时候调用cb
+        request('login',{uniqueID:uniqueID,nickName:nickname,avatarUrl:avatar},cb);//p6 16m13s
     };
 
-    that.onInitPlayerInfo = function(cb){
+    that.onInitPlayerInfo = function(cb){//p6 16m13s
         //监听服务器发来的初始化用户信息，包含用户昵称 ID 头像 房卡数量
     };
 
@@ -45,7 +38,6 @@ const  SocketController=function () {//   p1 49m18s   51m11s
              console.log('login  = '+JSON.stringify(data));
          })
     };
-
     return that;
     console.log('这是Socket_Controller.ts 客户端接受的服务器的数据 = ' + JSON.stringify(data))
 };

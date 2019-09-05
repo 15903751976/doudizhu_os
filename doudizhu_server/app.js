@@ -24,63 +24,67 @@ mydb.connect(config.mysqlConfig);
 //    avatar_url:"taobao.com"
 // });
 
-// let event = el.EventListener({});
+// let event = el.EventListener({});     //9y4r  忘记关掉，导致错误
 // event.on('test',function(pl){
-//
+//     console.log('pl = ' + pl);
 // });
 // event.fire('test','ok');
 
 app.on('connection',function (socket) {
-    console.log('a user connected app.js/app.on函数 = ');
+    console.log('a user connected');
     socket.emit('welcome','hello world!');
-    socket.on("login",function (res) {// 8y3r   login的“”，写作‘’  //从客户端发来的信息默认都加res
-        console.log('a user login = '+ JSON.stringify(res));//data服务器接收客户端数据
-        console.log('这是app.js 服务器接受的客户端的数据 = '+ JSON.stringify(res));
-        mydb.checkPlayer(res.uniqueID,function (err,data) {
-            if (err){
-                console.log('err = '+ err );
-            } else {
-                if (data.length === 0) {
-                    //說明系統裡面不存在玩家
-                    console.log("不存在這個玩家")
-                    let uid = '1';//p4 11m10s
-                    for (let i = 0; i < 7; i++) {
-                        uid += Math.floor(Math.random() * 10);//floor向下取整
+    socket.on("notify",function (res) {// 8y3r   login的“”，写作‘’  //从客户端发来的信息默认都加res
+        console.log('a user login = ' + JSON.stringify(res));
+        let notifyData = res.data;
+        let callbackIndex = res.callBackIndex;
+        let msg = res.msg;
+        switch(msg){
+            case'login':
+                mydb.checkPlayer(notifyData.uniqueID, function (err, data) {//p6 32m10s
+                    if (err) {
+                        console.log('err = ' + err);
+                    } else {
+                        if (data.length === 0) {
+                            //說明系統裡面不存在玩家
+                            console.log("不存在这个玩家");
+                            let uid = '1';//p4 11m10s
+                            for (let i = 0; i < 7; i++) {
+                                uid += Math.floor(Math.random() * 10);//floor向下取整
+                            }
+                            mydb.insertPlayerInfo({//把res传来的数据，放到insertPlayerInfo字段里存起来
+                                unique_id: notifyData.uniqueID,//////p4 11m00s就已经有了notifyData.uniqueID   ??????大问题unique_id应该是uniqueID
+                                uid: uid,////p4 11m10s
+                                nick_name: notifyData.nickName,
+                                avatar_url: notifyData.avatarUrl,
+                                house_card_count: 5,
+                            });
+                            playerController.createPlayer(socket, {
+                                uid: uid,//
+                                nickName: notifyData.nickName,
+                                avatarUrl: notifyData.avatarUrl,
+                                houseCardCount: 5,
+                                callBackIndex:callbackIndex
+                            });
+                        } else {
+                            //說明存在玩家
+                            mydb.updatePlayerInfo('unique_id', notifyData.uniqueID, {
+                                nick_name: notifyData.nickName,
+                                avatar_url: notifyData.avatarUrl,
+                            });
+                            playerController.createPlayer(socket, {//p3 38m00s   //p3 40m40s
+                                uid: data[0].uid,
+                                nickName: notifyData.nickName,
+                                avatarUrl: notifyData.avatarUrl,
+                                houseCardCount: data[0].house_card_count,
+                                callBackIndex: callbackIndex
+                            })
+                        }
                     }
-                    let nick= JSON.stringify(res.nickName);
-                    console.log('这是要sql用到插入语句  看对不对!!! ' + res.uid)
-                    mydb.insertPlayerInfo({//把res传来的数据，放到insertPlayerInfo字段里存起来
-                        unique_id: res.uniqueID,
-                        uid:uid,////p4 11m10s
-                        nick_name: res.nickName,
-                        avatar_url:res.avatarUrl,
-                        house_card_count: 5,
-                    });
-                    console.log('这是要sql用到插入语句  看对不对？？？ ' +  res.uniqueID  + "," +   res.uid  + "," +   res.nickName +  ","  +  res.avatarUrl);
-                    console.log('这是要sql用到插入语句  看对不对？？？? ? ? ? '+  res.uid);
-                    playerController.createPlayer(socket,{
-                        uid:uid,//
-                        nickName:res.nickName,
-                        avatarUrl:res.avatarUrl,
-                        houseCardCount:5
-                    });
-                } else {
-                    //說明存在玩家
-                    mydb.updatePlayerInfo('unique_id', res.uniqueID, {
-                        nick_name: res.nickName,
-                        avatar_url: res.avatarUrl,
-                    });
-                    playerController.createPlayer(socket,{//p3 38m00s   //p3 40m40s
-                        uid:data[0].uid,
-                        nickName:res.nickName,
-                        avatarUrl:res.avatarUrl,
-                        houseCardCount:data[0].house_card_count
-
-                    })
-                }
-            }
-         })
-
+                })
+                break;
+            default:
+                break;
+        }
     })
 });
 console.log('listen on 3000 '+'Im a App 3000');
