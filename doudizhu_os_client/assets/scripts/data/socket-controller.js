@@ -17,6 +17,7 @@ const  SocketController=function () {//   p1 49m18s   51m11s
         })
     };
     const notify = function(msg,data){
+        console.error('this is notify function = ' + msg + '......' + data)
         _socket.emit('notify',{msg:msg,callBackIndex:_callBackIndex,data:data})
         _callBackIndex ++;
     };
@@ -27,7 +28,10 @@ const  SocketController=function () {//   p1 49m18s   51m11s
     that.login=function (uniqueID,nickname,avatar,cb) {//  p1 61m56s   p6 11m15s   表示调用结果的时候调用cb
         request('login',{uniqueID:uniqueID,nickName:nickname,avatarUrl:avatar},cb);//p6 16m13s
     };
-
+    that.createRoom = function(data,cb){//p6 45m
+        console.log('createRoom = ' + JSON.stringify(data));
+        request('create_room',data,cb);
+    };
     that.onInitPlayerInfo = function(cb){//p6 16m13s
         //监听服务器发来的初始化用户信息，包含用户昵称 ID 头像 房卡数量
     };
@@ -38,6 +42,7 @@ const  SocketController=function () {//   p1 49m18s   51m11s
              console.log('login  = '+JSON.stringify(data));
          })
     };
+
     return that;
     console.log('这是Socket_Controller.ts 客户端接受的服务器的数据 = ' + JSON.stringify(data))
 };

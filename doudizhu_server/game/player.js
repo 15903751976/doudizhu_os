@@ -6,12 +6,35 @@ const  Player=function(socket,data){
     let _avatarUrl = data.avatarUrl;
     let _houseCardCount = data.houseCardCount;//p6 35m50s换成houseCardCount
     let _callBackIndex = data.callBackIndex;
-    _socket.emit('notify',{msg:'login',callBackIndex:_callBackIndex,data:{//p6 32m25s
-            uid: _uid,
-            nickName:_nickName,
-            avatarUrl:_avatarUrl,//
-            houseCardCount: _houseCardCount
-        }});
+    const  notify = function(msg,index,data){
+        _socket.emit('notify',{msg:msg,callBackIndex:index,data:data});
+    };
+    // _socket.emit('notify',{msg:'login',callBackIndex:_callBackIndex,data:{//p6 32m25s
+    //         uid: _uid,
+    //         nickName:_nickName,
+    //         avatarUrl:_avatarUrl,//
+    //         houseCardCount: _houseCardCount
+    //     }});
+    notify('login',data.callBackIndex,{
+        uid: _uid,
+        nickName:_nickName,
+        avatarUrl:_avatarUrl,//
+        houseCardCount: _houseCardCount
+    });
+    _socket.on('notify',function (res) {//p6 55m
+       let msg = res.msg;
+       let callBackIndex = res.callBackIndex
+       let data = res.data;
+       console.log('data = ' + JSON.stringify(data))
+       switch(msg){
+           case'create_room':
+               console.log('创建房间');
+                notify('create_room',callBackIndex,'create room success')
+               break;
+           default:
+               break;
+       }
+    });
     return that;
 };
 let _playerList = [];

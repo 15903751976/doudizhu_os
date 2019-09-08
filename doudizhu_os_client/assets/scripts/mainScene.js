@@ -4,7 +4,27 @@ import landshow from './components/landManager'; //p2  1m20s
 cc.Class({
     extends: cc.Component,
     properties: {
-        tipesLbel:{
+        nickNameLabel:{
+            default:null,
+            type:cc.Label
+        },
+        idLabel:{
+            default:null,
+            type:cc.Label
+        },
+        headImage:{
+            default:null,
+            type:cc.Sprite
+        },
+        headSprite:{
+          default:null,
+          type:cc.SpriteFrame
+        },
+        houseCardCountLabel:{
+          default:null,
+          type:cc.Label
+        },
+        tipsLabel:{
             default: null,
             type:cc.Node
         },
@@ -17,8 +37,34 @@ cc.Class({
             type:cc.Prefab
         }
     },
-    onLoad:function(){
+    onLoad:function(){//p6 38m
+            this.nickNameLabel.string = global.tianba.playerData.nickName;
+            this.idLabel.string = global.tianba.playerData.uid;
+            this.houseCardCountLabel.string = global.tianba.playerData.houseCardCount;
+            /**
+         *测试一
+         */
+            this.headImage.spriteFrame = this.headSprite;
+        /***
+         * 测试二
+         */
+        // cc.loader.loadRes('resources/png/game_role11',(err,tex)=>{
+        //     if (err) {
+        //         console.error('this load  head Image is err ' + err)
+        //     }else{
+        //         this.headImage.SpriteFrame = new cc.SpriteFrame(tex);
+        //     }
+        // });
 
+
+            // cc.loader.load(global.tianba.playerData.avatarUrl,(err,tex)=>{
+            //     if (err){
+            //         console.log('err = ' + err)
+            //     }
+            //         console.log('Should load a texture from external url:  ' + (tex instanceof cc.Texture2D));
+            //         //this.headImage.spriteFrame.setTexture(tex);
+            //         this.headImage.spriteFrame = new cc.SpriteFrame(tex);
+            // });
         // global.socket.login();
         // //开始init连接//调用global脚本里面的socket套接字，// global.socket再调用SocketController()方法进行socket.io的进行连接服务器端口，// defines是全局默认IP和端口
         // global.socket.onLogin();
@@ -60,9 +106,9 @@ cc.Class({
 
     update(dt){
         let offset=300;
-        this.tipesLbel.position=cc.v2(this.tipesLbel.position.x-1, this.tipesLbel.position.y);
-           if(this.tipesLbel.position.x <= -cc.winSize.width/2-offset){
-               this.tipesLbel.position=cc.v2(cc.winSize.width/2+offset,this.tipesLbel.position.y);
+        this.tipsLabel.position=cc.v2(this.tipsLabel.position.x-1, this.tipsLabel.position.y);
+           if(this.tipsLabel.position.x <= -cc.winSize.width/2-offset){
+               this.tipsLabel.position=cc.v2(cc.winSize.width/2+offset,this.tipsLabel.position.y);
            }
 
     }

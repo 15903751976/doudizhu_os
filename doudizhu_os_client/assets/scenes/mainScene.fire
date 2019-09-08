@@ -2761,7 +2761,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "nicknameLabel",
+    "_name": "nickNameLabel",
     "_objFlags": 0,
     "_parent": {
       "__id__": 61
@@ -2848,7 +2848,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "nicknameLabel",
+    "_name": "idLabel",
     "_objFlags": 0,
     "_parent": {
       "__id__": 61
@@ -3120,7 +3120,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "head",
+    "_name": "headImage",
     "_objFlags": 0,
     "_parent": {
       "__id__": 67
@@ -3298,7 +3298,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "house_bg",
+    "_name": "fangka_bg",
     "_objFlags": 0,
     "_parent": {
       "__id__": 73
@@ -3472,7 +3472,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "button_bg",
+    "_name": "button_BG",
     "_objFlags": 0,
     "_parent": {
       "__id__": 73
@@ -3656,7 +3656,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "New Label",
+    "_name": "houseCardCountLabel",
     "_objFlags": 0,
     "_parent": {
       "__id__": 73
@@ -4213,7 +4213,22 @@
       "__id__": 2
     },
     "_enabled": true,
-    "tipesLbel": {
+    "nickNameLabel": {
+      "__id__": 63
+    },
+    "idLabel": {
+      "__id__": 65
+    },
+    "headImage": {
+      "__id__": 71
+    },
+    "headSprite": {
+      "__uuid__": "6e15d880-60c2-4888-974d-0a4423940d1c"
+    },
+    "houseCardCountLabel": {
+      "__id__": 83
+    },
+    "tipsLabel": {
       "__id__": 87
     },
     "joinRoomPrefabs": {
