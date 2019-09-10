@@ -1,3 +1,4 @@
+const gameController = require('./game-controller');
 const  Player=function(socket,data){
     let that={};
     let _socket = socket;
@@ -5,7 +6,7 @@ const  Player=function(socket,data){
     let _nickName = data.nickName
     let _avatarUrl = data.avatarUrl;
     let _houseCardCount = data.houseCardCount;//p6 35m50s换成houseCardCount
-    let _callBackIndex = data.callBackIndex;
+    //let _callBackIndex = data.callBackIndex;
     const  notify = function(msg,index,data){
         _socket.emit('notify',{msg:msg,callBackIndex:index,data:data});
     };
@@ -29,7 +30,19 @@ const  Player=function(socket,data){
        switch(msg){
            case'create_room':
                console.log('创建房间');
-                notify('create_room',callBackIndex,'create room success')
+                //notify('create_room',callBackIndex,'create room success')
+               gameController.createRoom(data,function (err,resp) {
+                   if (err){
+                       console.log('create room err = '+err);
+                   }else{
+                       notify('create_room',callBackIndex,{roomID:resp});//p7 23m50s
+                   }
+               });
+               break;
+           case 'join_room':
+               gameController.joinRoom(roomID,that,function(err,resp){
+
+               }); //  that代表的就是这个玩家，吧玩家加入房间
                break;
            default:
                break;

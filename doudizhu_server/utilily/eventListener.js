@@ -16,7 +16,7 @@ exports.EventListener = function (obj) {//p6 28m20s
            for (let i=0;i<handlerList.length;i++){
                let handler = handlerList[i];
                let args = [];
-               for (let i = 1;arguments.length;i++){
+               for (let j = 1;arguments.length;j++){
                     args.push(arguments[i]);
                }
                handler.apply(this,args);//p6 21m50s

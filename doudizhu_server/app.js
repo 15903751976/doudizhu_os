@@ -6,6 +6,11 @@ const  mydb=require('./utilily/db');//p2 5m18s-6m  //mysql数据库连接
 
 const  el = require('./utilily/eventListener');//node.js的模块化方法
 const  playerController = require('./game/player');//player玩家列表信息
+
+const  room = require('./game/room');
+let r = room();
+console.log('room = '+ JSON.stringify(r));
+
 mydb.connect(config.mysqlConfig);
 // mydb.checkPlayer("100000",function(err,cb){
 //
@@ -80,7 +85,7 @@ app.on('connection',function (socket) {
                             })
                         }
                     }
-                })
+                });
                 break;
             default:
                 break;
